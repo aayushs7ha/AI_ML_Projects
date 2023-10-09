@@ -1,4 +1,4 @@
-# A Simple Machine-Learning-Projects Repository 
+# Machine-Learning-Projects Repository 
 **Repository Name:** ML-Playground
 
 **Description:**
